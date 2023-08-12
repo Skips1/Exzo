@@ -1,4 +1,3 @@
-
 ## exzo onlarca port istiyor onlarla uğraşmamak için bu komutlar ile tüm portları açıyorum ben:
 
 ```
